@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/oracle/VRFSubcription.sol": "VRFSubcription"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/oracle/VRFSubcription.sol": {
+			"keccak256": "0x78db1e1b6dc160e65a784d7ef11ebd67d1b4c05fa966e66ea68f3a25c926e830",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://db299a7d799da3d324ee4711dd3e35571a78e7e22d5e4f151da9677fad53cd86",
+				"dweb:/ipfs/QmQgMNAt3CRZmo58wnbsakgoiH4ahTmvE9PyvnNS6GRG7W"
+			]
+		}
+	},
+	"version": 1
+}
