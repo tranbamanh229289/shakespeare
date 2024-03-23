@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/chainlink/ccip/Receiver.sol": "Sender"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/chainlink/ccip/Receiver.sol": {
+			"keccak256": "0xdfd054119cdcfe5f5228ad52022a6e12deef8d95021a3cd8fbd766716f5e7150",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://da7562379a46297338ffb9a2205502d7da9839bbe485b3e7855699dceb2c72a1",
+				"dweb:/ipfs/QmdSG1DZo6t4T2UwcWrA59iQt26JLYgu6kkPpd5K7oUgna"
+			]
+		}
+	},
+	"version": 1
+}
